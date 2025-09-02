@@ -1,0 +1,109 @@
+[
+  {
+    "template": "science_basic",
+    "params": {
+      "concept": "photosynthesis",
+      "grade": "5th grade"
+    }
+  },
+  {
+    "template": "science_stepwise",
+    "params": {
+      "concept": "gravity",
+      "grade": "3rd grade"
+    }
+  },
+  {
+    "template": "science_analogy",
+    "params": {
+      "concept": "atoms",
+      "grade": "6th grade"
+    }
+  },
+  {
+    "template": "science_qa",
+    "params": {
+      "concept": "weather",
+      "grade": "4th grade",
+      "question": "Why does it rain?"
+    }
+  },
+  {
+    "template": "science_experiment",
+    "params": {
+      "concept": "magnetism",
+      "grade": "2nd grade"
+    }
+  },
+  {
+    "template": "grammar_rule",
+    "params": {
+      "topic": "subject-verb agreement",
+      "grade": "5th grade"
+    }
+  },
+  {
+    "template": "writing_feedback",
+    "params": {
+      "grade": "4th grade",
+      "text": "I went to park. I played. It was fun. Then I went home."
+    }
+  },
+  {
+    "template": "reading_guide",
+    "params": {
+      "grade": "5th grade",
+      "passage": "The ancient Egyptians built pyramids as tombs for their pharaohs. These massive structures took many years to complete."
+    }
+  },
+  {
+    "template": "vocabulary",
+    "params": {
+      "word": "magnificent",
+      "grade": "6th grade"
+    }
+  },
+  {
+    "template": "story_analysis",
+    "params": {
+      "grade": "4th grade",
+      "story": "A young girl found a mysterious key in her grandmother's attic and discovered it opened a hidden door."
+    }
+  },
+  {
+    "template": "concept_compare",
+    "params": {
+      "concept1": "mammals",
+      "concept2": "reptiles",
+      "grade": "4th grade"
+    }
+  },
+  {
+    "template": "problem_solve",
+    "params": {
+      "grade": "6th grade",
+      "problem": "What is 15% of 80?"
+    }
+  },
+  {
+    "template": "study_tip",
+    "params": {
+      "subject": "science",
+      "grade": "middle school"
+    }
+  },
+  {
+    "template": "mistake_correct",
+    "params": {
+      "grade": "5th grade",
+      "misconception": "heavier objects fall faster than lighter objects"
+    }
+  },
+  {
+    "template": "real_world",
+    "params": {
+      "concept": "fractions",
+      "grade": "4th grade"
+    }
+  }
+]

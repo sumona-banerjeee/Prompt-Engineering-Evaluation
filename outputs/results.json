@@ -1,0 +1,418 @@
+{
+  "results": [
+    {
+      "id": 0,
+      "template": "science_basic",
+      "prompt": "Explain photosynthesis to a 5th grade student in simple terms.",
+      "response": "Plants make food using sunlight, water, and carbon dioxide. The green parts of plants capture sunlight like solar panels. Water comes up from the roots, and carbon dioxide comes from the air. When these mix together with sunlight, plants make sugar for food and release oxygen.",
+      "scores": {
+        "fluency": 0.8,
+        "correctness": 0.7,
+        "bias_check": 1.0,
+        "clarity": 1.0,
+        "age_appropriate": 0.8,
+        "overall": 0.8400000000000001
+      }
+    },
+    {
+      "id": 1,
+      "template": "science_stepwise",
+      "prompt": "Break down gravity into 3 simple steps for 3rd grade students: Step 1: Step 2: Step 3:",
+      "response": "Gravity is a force that pulls objects toward Earth. Think of it like an invisible hand that always pulls things down. That's why when you drop a ball, it falls to the ground instead of floating away. The bigger something is, the stronger its gravity pull.",
+      "scores": {
+        "fluency": 0.8,
+        "correctness": 0.7,
+        "bias_check": 1.0,
+        "clarity": 1.0,
+        "age_appropriate": 0.8,
+        "overall": 0.8400000000000001
+      }
+    },
+    {
+      "id": 2,
+      "template": "science_analogy",
+      "prompt": "Explain atoms using a simple analogy that 6th grade students would understand.",
+      "response": "Atoms are like tiny building blocks that make up everything around us. Think of them like LEGO blocks - you can't see individual blocks in a big castle, but they're all there holding it together. Different combinations of these blocks make different materials.",
+      "scores": {
+        "fluency": 0.8,
+        "correctness": 0.7,
+        "bias_check": 1.0,
+        "clarity": 1.0,
+        "age_appropriate": 0.8500000000000001,
+        "overall": 0.8475000000000001
+      }
+    },
+    {
+      "id": 3,
+      "template": "science_qa",
+      "prompt": "Answer this 4th grade student's question about weather: Why does it rain?",
+      "response": "Rain happens because of the water cycle! When the sun heats up water in oceans and lakes, it turns into invisible water vapor that rises into the sky. High up where it's cold, this water vapor turns back into tiny water droplets that form clouds. When the droplets get too heavy, they fall as rain!",
+      "scores": {
+        "fluency": 0.8,
+        "correctness": 0.7799999999999999,
+        "bias_check": 1.0,
+        "clarity": 1.0,
+        "age_appropriate": 0.8,
+        "overall": 0.8640000000000001
+      }
+    },
+    {
+      "id": 4,
+      "template": "science_experiment",
+      "prompt": "Describe a simple experiment to demonstrate magnetism for 2nd grade students.",
+      "response": "Here's a simple magnet experiment: Get a magnet and various small objects like paperclips, coins, and plastic items. First, predict which items will stick to the magnet. Then test each item. You'll find that only metal objects made of iron stick to magnets.",
+      "scores": {
+        "fluency": 0.8,
+        "correctness": 0.7799999999999999,
+        "bias_check": 1.0,
+        "clarity": 1.0,
+        "age_appropriate": 0.8,
+        "overall": 0.8640000000000001
+      }
+    },
+    {
+      "id": 5,
+      "template": "grammar_rule",
+      "prompt": "Explain the grammar rule for subject-verb agreement to 5th grade students with examples.",
+      "response": "Subject-verb agreement means the subject and verb must match. If the subject is singular (one thing), use a singular verb. If the subject is plural (many things), use a plural verb. Example: 'The cat runs' (singular) but 'The cats run' (plural).",
+      "scores": {
+        "fluency": 0.8,
+        "correctness": 0.7,
+        "bias_check": 1.0,
+        "clarity": 1.0,
+        "age_appropriate": 0.8,
+        "overall": 0.8400000000000001
+      }
+    },
+    {
+      "id": 6,
+      "template": "writing_feedback",
+      "prompt": "Give constructive feedback on this 4th grade student's writing: I went to park. I played. It was fun. Then I went home.",
+      "response": "Your writing shows good ideas and creativity. To improve: First, add more descriptive words to paint pictures in the reader's mind. Second, vary your sentence lengths by mixing short and long sentences. Third, make sure each paragraph has one main idea.",
+      "scores": {
+        "fluency": 0.8,
+        "correctness": 0.94,
+        "bias_check": 1.0,
+        "clarity": 1.0,
+        "age_appropriate": 0.8,
+        "overall": 0.912
+      }
+    },
+    {
+      "id": 7,
+      "template": "reading_guide",
+      "prompt": "Help a 5th grade student understand this passage: The ancient Egyptians built pyramids as tombs for their pharaohs. These massive structures took many years to complete.",
+      "response": "To understand this passage, let's find the main idea first. Look for the most important point the author is trying to make. Then identify supporting details that help explain this main idea. Finally, think about how this connects to what you already know.",
+      "scores": {
+        "fluency": 0.8,
+        "correctness": 0.86,
+        "bias_check": 1.0,
+        "clarity": 1.0,
+        "age_appropriate": 0.8500000000000001,
+        "overall": 0.8955000000000002
+      }
+    },
+    {
+      "id": 8,
+      "template": "vocabulary",
+      "prompt": "Define magnificent for 6th grade students and use it in a sentence.",
+      "response": "That's a great question! Let me explain this step by step. First, we need to understand the basic idea. Then we can look at some examples. Finally, we'll see how this connects to what you already know. This concept is important because it helps us understand the world around us.",
+      "scores": {
+        "fluency": 0.8,
+        "correctness": 1.0,
+        "bias_check": 1.0,
+        "clarity": 1.0,
+        "age_appropriate": 0.8500000000000001,
+        "overall": 0.9375
+      }
+    },
+    {
+      "id": 9,
+      "template": "story_analysis",
+      "prompt": "Help a 4th grade student analyze the main idea of this story: A young girl found a mysterious key in her grandmother's attic and discovered it opened a hidden door.",
+      "response": "To understand this passage, let's find the main idea first. Look for the most important point the author is trying to make. Then identify supporting details that help explain this main idea. Finally, think about how this connects to what you already know.",
+      "scores": {
+        "fluency": 0.8,
+        "correctness": 0.86,
+        "bias_check": 1.0,
+        "clarity": 1.0,
+        "age_appropriate": 0.8500000000000001,
+        "overall": 0.8955000000000002
+      }
+    },
+    {
+      "id": 10,
+      "template": "concept_compare",
+      "prompt": "Compare mammals and reptiles for 4th grade students.",
+      "response": "Mammals and reptiles are both animals, but they're different in important ways. Mammals are warm-blooded and have fur or hair, while reptiles are cold-blooded and have scales. Mammal babies drink milk from their mothers, but reptile babies usually take care of themselves.",
+      "scores": {
+        "fluency": 0.8,
+        "correctness": 0.7,
+        "bias_check": 1.0,
+        "clarity": 1.0,
+        "age_appropriate": 0.8,
+        "overall": 0.8400000000000001
+      }
+    },
+    {
+      "id": 11,
+      "template": "problem_solve",
+      "prompt": "Guide a 6th grade student through solving: What is 15% of 80?",
+      "response": "That's a great question! Let me explain this step by step. First, we need to understand the basic idea. Then we can look at some examples. Finally, we'll see how this connects to what you already know. This concept is important because it helps us understand the world around us.",
+      "scores": {
+        "fluency": 0.8,
+        "correctness": 1.0,
+        "bias_check": 1.0,
+        "clarity": 1.0,
+        "age_appropriate": 0.8500000000000001,
+        "overall": 0.9375
+      }
+    },
+    {
+      "id": 12,
+      "template": "study_tip",
+      "prompt": "Give study tips for science to middle school students.",
+      "response": "Here are good study tips for science: First, make connections between new ideas and things you already know. Second, practice explaining concepts in your own words. Third, use drawings and diagrams to help you remember. Finally, ask questions when something doesn't make sense.",
+      "scores": {
+        "fluency": 0.8,
+        "correctness": 1.0,
+        "bias_check": 1.0,
+        "clarity": 1.0,
+        "age_appropriate": 0.8,
+        "overall": 0.93
+      }
+    },
+    {
+      "id": 13,
+      "template": "mistake_correct",
+      "prompt": "A 5th grade student thinks heavier objects fall faster than lighter objects. Correct this gently.",
+      "response": "I can see why you might think that - it seems like heavier things should fall faster! But actually, all objects fall at the same speed when there's no air resistance. Try dropping a heavy book and a light piece of paper from the same height - they'll hit the ground at almost the same time!",
+      "scores": {
+        "fluency": 0.8,
+        "correctness": 0.7,
+        "bias_check": 1.0,
+        "clarity": 1.0,
+        "age_appropriate": 0.8,
+        "overall": 0.8400000000000001
+      }
+    },
+    {
+      "id": 14,
+      "template": "real_world",
+      "prompt": "Show how fractions applies in real life for 4th grade students.",
+      "response": "That's a great question! Let me explain this step by step. First, we need to understand the basic idea. Then we can look at some examples. Finally, we'll see how this connects to what you already know. This concept is important because it helps us understand the world around us.",
+      "scores": {
+        "fluency": 0.8,
+        "correctness": 1.0,
+        "bias_check": 1.0,
+        "clarity": 1.0,
+        "age_appropriate": 0.8500000000000001,
+        "overall": 0.9375
+      }
+    }
+  ],
+  "analysis": {
+    "summary": {
+      "total_prompts": 15,
+      "avg_overall_score": 0.8814,
+      "score_distribution": {
+        "excellent": 15,
+        "good": 0,
+        "poor": 0
+      },
+      "metric_averages": {
+        "fluency": 0.8000000000000003,
+        "correctness": 0.8279999999999998,
+        "bias_check": 1.0,
+        "clarity": 1.0,
+        "age_appropriate": 0.8200000000000001
+      }
+    },
+    "best_prompts": [
+      {
+        "template": "vocabulary",
+        "overall": 0.9375
+      },
+      {
+        "template": "problem_solve",
+        "overall": 0.9375
+      },
+      {
+        "template": "real_world",
+        "overall": 0.9375
+      }
+    ],
+    "worst_prompts": [
+      {
+        "template": "science_basic",
+        "overall": 0.8400000000000001
+      },
+      {
+        "template": "science_stepwise",
+        "overall": 0.8400000000000001
+      },
+      {
+        "template": "grammar_rule",
+        "overall": 0.8400000000000001
+      }
+    ],
+    "failure_modes": [],
+    "mitigations": [
+      "Continue current approach: Prompts show good overall performance with no major issues identified"
+    ],
+    "robust_prompts": [
+      "science_basic",
+      "science_stepwise",
+      "science_analogy",
+      "science_qa",
+      "science_experiment",
+      "grammar_rule",
+      "writing_feedback",
+      "reading_guide",
+      "vocabulary",
+      "story_analysis",
+      "concept_compare",
+      "problem_solve",
+      "study_tip",
+      "mistake_correct",
+      "real_world"
+    ],
+    "detailed_scores": [
+      {
+        "template": "science_basic",
+        "fluency": 0.8,
+        "correctness": 0.7,
+        "bias_check": 1.0,
+        "clarity": 1.0,
+        "age_appropriate": 0.8,
+        "overall": 0.8400000000000001
+      },
+      {
+        "template": "science_stepwise",
+        "fluency": 0.8,
+        "correctness": 0.7,
+        "bias_check": 1.0,
+        "clarity": 1.0,
+        "age_appropriate": 0.8,
+        "overall": 0.8400000000000001
+      },
+      {
+        "template": "science_analogy",
+        "fluency": 0.8,
+        "correctness": 0.7,
+        "bias_check": 1.0,
+        "clarity": 1.0,
+        "age_appropriate": 0.8500000000000001,
+        "overall": 0.8475000000000001
+      },
+      {
+        "template": "science_qa",
+        "fluency": 0.8,
+        "correctness": 0.7799999999999999,
+        "bias_check": 1.0,
+        "clarity": 1.0,
+        "age_appropriate": 0.8,
+        "overall": 0.8640000000000001
+      },
+      {
+        "template": "science_experiment",
+        "fluency": 0.8,
+        "correctness": 0.7799999999999999,
+        "bias_check": 1.0,
+        "clarity": 1.0,
+        "age_appropriate": 0.8,
+        "overall": 0.8640000000000001
+      },
+      {
+        "template": "grammar_rule",
+        "fluency": 0.8,
+        "correctness": 0.7,
+        "bias_check": 1.0,
+        "clarity": 1.0,
+        "age_appropriate": 0.8,
+        "overall": 0.8400000000000001
+      },
+      {
+        "template": "writing_feedback",
+        "fluency": 0.8,
+        "correctness": 0.94,
+        "bias_check": 1.0,
+        "clarity": 1.0,
+        "age_appropriate": 0.8,
+        "overall": 0.912
+      },
+      {
+        "template": "reading_guide",
+        "fluency": 0.8,
+        "correctness": 0.86,
+        "bias_check": 1.0,
+        "clarity": 1.0,
+        "age_appropriate": 0.8500000000000001,
+        "overall": 0.8955000000000002
+      },
+      {
+        "template": "vocabulary",
+        "fluency": 0.8,
+        "correctness": 1.0,
+        "bias_check": 1.0,
+        "clarity": 1.0,
+        "age_appropriate": 0.8500000000000001,
+        "overall": 0.9375
+      },
+      {
+        "template": "story_analysis",
+        "fluency": 0.8,
+        "correctness": 0.86,
+        "bias_check": 1.0,
+        "clarity": 1.0,
+        "age_appropriate": 0.8500000000000001,
+        "overall": 0.8955000000000002
+      },
+      {
+        "template": "concept_compare",
+        "fluency": 0.8,
+        "correctness": 0.7,
+        "bias_check": 1.0,
+        "clarity": 1.0,
+        "age_appropriate": 0.8,
+        "overall": 0.8400000000000001
+      },
+      {
+        "template": "problem_solve",
+        "fluency": 0.8,
+        "correctness": 1.0,
+        "bias_check": 1.0,
+        "clarity": 1.0,
+        "age_appropriate": 0.8500000000000001,
+        "overall": 0.9375
+      },
+      {
+        "template": "study_tip",
+        "fluency": 0.8,
+        "correctness": 1.0,
+        "bias_check": 1.0,
+        "clarity": 1.0,
+        "age_appropriate": 0.8,
+        "overall": 0.93
+      },
+      {
+        "template": "mistake_correct",
+        "fluency": 0.8,
+        "correctness": 0.7,
+        "bias_check": 1.0,
+        "clarity": 1.0,
+        "age_appropriate": 0.8,
+        "overall": 0.8400000000000001
+      },
+      {
+        "template": "real_world",
+        "fluency": 0.8,
+        "correctness": 1.0,
+        "bias_check": 1.0,
+        "clarity": 1.0,
+        "age_appropriate": 0.8500000000000001,
+        "overall": 0.9375
+      }
+    ]
+  }
+}
